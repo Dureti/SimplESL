@@ -17,13 +17,6 @@
           gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
         >
         </a-entity>-->
-        <!-- my example, doesn't work
-        <a-entity
-          position="0 0 0"
-          scale="1 1 1"
-          gltf-model="assets/scene.gltf">
-        </a-entity>-->
-        <!-- same model, trying url instead of path to 'assets' folder, doesn't work also-->
         <a-entity
           position="0 1 0"
           scale="0.01 0.01 0.01"
